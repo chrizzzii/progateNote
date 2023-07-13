@@ -19,7 +19,11 @@ To complete the Progate Course in React Native Path
 
 ## How To Install
 
-- Coming Soon
+- Download project
+- Download Expo Go in your mobile phone
+- Open terminal inside folder project
+- Write "npx expo start" in terminal
+- Scan the barcode with your phone
 
 ## Release History
 
